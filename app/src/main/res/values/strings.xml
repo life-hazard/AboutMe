@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Gabriela Mirek</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hello, my name is Gabriela.
+    \n\nI\'m happy to see you here, I hope you\'re having a nice day.
+    \n\nI love solving riddles so here\'s one for you:
+    \nMany years ago, a wealthy old man was near death. He wished to leave his fortune to one of his
+    three children. Te old man wanted to know that his fortune would be in wise hands. He stipulated
+    that his estate would be left to the child who would sing him half as many songs as days that he
+    had left to live. The eldest son said that he couldn\'t comply because he didn\'t know how many
+    days his father had left to live, and besides he was too busy. The youngest son said the same thing.
+        The man ended up leaving his money to his third child, a daughter. \nWhat did his daughter do?\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
